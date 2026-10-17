@@ -47,9 +47,35 @@ window.PORTFOLIO = {
   ],
 
   projects: [
+    
+    {
+      title: "Aplikasi Sistem Informasi Akademik dengan chatbot",
+      category: "Web App",
+      year: "2025",
+      description:
+        "Website sistem informasi akademik dengan integrasi chatbot.",
+      images: [
+
+        "assets/mis-1.png",
+        "assets/mis-2.png",
+        "assets/mis-3.png",
+        "assets/mis-4.png",
+        "assets/mis-5.png",
+        "assets/mis-6.png",
+        "assets/mis-7.png",
+        "assets/mis-8.png",
+        "assets/mis-9.png",
+        "assets/mis-10.png",
+        "assets/mis-11.png",
+        "assets/mis-12.png",],
+      tags: ["CSS","React", "NodeJS", "MySQL", "ExpressJs"],
+      demo: "#",
+      repo: "#"
+    },
+
     {
       title: "Website E-Ticket",
-      category: "Web Development",
+      category: "Web App",
       year: "2023",
       description: "Website pemesanan tiket pesawat.",
       // Bisa lebih dari 1 gambar — gambar pertama jadi tampilan utama
@@ -72,7 +98,7 @@ window.PORTFOLIO = {
       year: "2025",
       description:
         "Aplikasi to-do sederhana dengan fitur kategori, filter, dan penyimpanan lokal.",
-      image: "",
+      images: [],
       tags: ["React", "CSS"],
       demo: "#",
       repo: "#",
@@ -83,7 +109,7 @@ window.PORTFOLIO = {
       year: "2025",
       description:
         "Redesign landing page untuk meningkatkan keterbacaan informasi dan konversi pengunjung.",
-      image: "",
+      images: [],
       tags: ["Figma", "UI Design"],
       demo: "#",
       repo: "",

@@ -128,7 +128,7 @@ window.PORTFOLIO = {
   // label yang dikenali ikonnya: GitHub, LinkedIn, Instagram, Twitter, X
   socials: [
     { label: "GitHub", url: "https://github.com/rizky-mf" },
-    { label: "LinkedIn", url: "https://www.linkedin.com/" },
+    { label: "LinkedIn", url: "https://www.linkedin.com/in/rizky-maolana-firdaus/" },
     { label: "Instagram", url: "https://www.instagram.com/rizkymaulanafrds/" },
   ],
 };

@@ -47,7 +47,25 @@ window.PORTFOLIO = {
   ],
 
   projects: [
-    
+        {
+      title: "Aplikasi Sistem Pakar Diagnosa Penyakit Paru-Paru",
+      category: "Web App",
+      year: "2026",
+      description:
+        "Aplikasi untuk mendiagnosa penyakit paru-paru dengan menggunakan metode Forward Chaining.",
+      images: [
+        "assets/sp-1.png", 
+        "assets/sp-2.png", 
+        "assets/sp-3.png", 
+        "assets/sp-4.png", 
+        "assets/sp-5.png", 
+        "assets/sp-6.png", 
+        "assets/sp-7.png",
+      ],
+      tags: ["HTML", "CSS", "JavaScript", "NodeJS", "MySQL", "ExpressJs"],
+      demo: "#",
+      repo: "#",
+      },
     {
       title: "Aplikasi Sistem Informasi Akademik dengan chatbot",
       category: "Web App",
@@ -92,28 +110,6 @@ window.PORTFOLIO = {
       demo: "#",
       repo: "#",
     },
-    {
-      title: "Aplikasi Manajemen Tugas",
-      category: "Web App",
-      year: "2025",
-      description:
-        "Aplikasi to-do sederhana dengan fitur kategori, filter, dan penyimpanan lokal.",
-      images: [],
-      tags: ["React", "CSS"],
-      demo: "#",
-      repo: "#",
-    },
-    {
-      title: "Redesign Landing Page",
-      category: "UI/UX",
-      year: "2025",
-      description:
-        "Redesign landing page untuk meningkatkan keterbacaan informasi dan konversi pengunjung.",
-      images: [],
-      tags: ["Figma", "UI Design"],
-      demo: "#",
-      repo: "",
-    },
   ],
 
   experience: [
@@ -126,7 +122,7 @@ window.PORTFOLIO = {
     },
     {
       period: "2023",
-      title: "Proyek Kelompok — Backend Javascript",
+      title: "SIB Kampus Merdeka - Backend Javascript",
       place: "Bootcamp Binar Academy",
       description: "Bertanggung jawab pada sisi back-end.",
     },

@@ -15,7 +15,7 @@ window.PORTFOLIO = {
   email: "rizkymaulanafrds@gmail.com",
   phone: "", // contoh: "+62 812-3456-7890" — kosongkan jika tidak ingin ditampilkan
   cv: "", // contoh: "assets/cv.pdf" — kosongkan jika belum ada
-  photo: "assets/PP-JAS.png", // paling bagus PNG berlatar transparan
+  photo: "assets/poto.png", // paling bagus PNG berlatar transparan
 
   // icon = nama ikon dari https://devicon.dev (contoh: "html5", "react", "nodejs")
   // level = persentase untuk skill bar (0–100)

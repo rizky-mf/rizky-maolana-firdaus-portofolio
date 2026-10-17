@@ -106,7 +106,7 @@ window.PORTFOLIO = {
         "assets/syura-6.png",
         "assets/syura-7.png",
       ],
-      tags: ["HTML", "Tailwind", "JavaScript", "NodeJS", "PostgreSql", "ExpressJs"],
+      tags: ["HTML", "React", "JavaScript", "NodeJS", "PostgreSql", "ExpressJs"],
       demo: "#",
       repo: "#",
     },
